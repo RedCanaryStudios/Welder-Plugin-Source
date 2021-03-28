@@ -46,4 +46,6 @@ destroyWelds.Click:Connect(function()
             end
         end
     end
+        
+    destroyWelds:SetActive(false)
 end)
